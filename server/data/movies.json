@@ -1,0 +1,672 @@
+[
+    {
+      "id": "207856",
+      "title": "2001: A Space Odyssey",
+      "synopsis": "While investigating the appearance of mysterious monoliths throughout the universe, two astronauts battle their ship's intelligent computer system.<br><b></b>",
+      "rating": "8.3",
+      "type": "movie",
+      "released": "1968",
+      "runtime": "2h28m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbjUFYCF6qVcxBNZXhL_HIGhaNXLosDyYyg6v3WP9H1FLsGMBtJx1uy9R8pEMgz0gGzPLlcF9lgH5WjpB_jl4p6DmlDw.jpg?r=43c",
+      "genres": [
+        "Sci-Fi",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "215318",
+      "title": "Ace Ventura: When Nature Calls",
+      "synopsis": "Ace travels to the jungles of Africa to recover a rare white bat. But if he fails, a war with the violent Wachootoo tribe is sure to follow.<br><b></b>",
+      "rating": "6.4",
+      "type": "movie",
+      "released": "1995",
+      "runtime": "1h34m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcAF9ZyRlOXNySt7A9ll31tYwgxUVPVtznPAqkz1L_R9iTfkyHQHK1w-3Kz0RKlXfl4KoWtU1nWkIO-dcjz1k-RYFE-6.jpg?r=914",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "234365",
+      "title": "Against All Odds",
+      "synopsis": "An ex-football player agrees to track down a sleazy nightclub owner's mistress -- but when he finds the elusive woman in Mexico, he falls in love.<br><b></b>",
+      "rating": "5.9",
+      "type": "movie",
+      "released": "1984",
+      "runtime": "2h1m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXIMhbibi12RBdfyOzXCHGhv-M4U5HJZxWy3P8C3b5HO-3yO_Nnpwr8RZP7fwzyMAv2XrMO-a6CXLVKFqi6JZYO9QYJU.jpg?r=603",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "18002692",
+      "title": "American History X",
+      "synopsis": "A neo-Nazi gets sent to prison for murder and comes out a changed man. But can he prevent his younger brother from following in his footsteps?<br><b></b>",
+      "rating": "8.5",
+      "type": "movie",
+      "released": "1998",
+      "runtime": "1h58m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbHt3NoFOvz3C4W44SvcUcNulmJZV6LpOj0P81LNU1I5VmtJkFnLz9fiz_gA71vaDytjDqocpe1ay7FJS3-mn5kvS4VT.jpg?r=e28",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "60000880",
+      "title": "28 Days",
+      "synopsis": "After her drunken antics result in property damage, an alcoholic journalist enters rehab -- and soon meets a fellow resident who changes her outlook.<br><b></b>",
+      "rating": "6",
+      "type": "movie",
+      "released": "2000",
+      "runtime": "1h43m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXaIScp1HGn2XPV82ivaARKyiMXJ0XN6FlgOe3tj1NM08vOc-ZUqCeQoXUHIWD4paV4xL3lj_Ez9kpfNvvQZKxNnn_tW.jpg?r=c89",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "60001801",
+      "title": "Alexandria ... Why?",
+      "synopsis": "Living in Alexandria during World War II, an Egyptian teen enamored with American films dreams of making it in Hollywood.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "1979",
+      "runtime": "2h11m",
+      "largeimage": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABdjwMEYmUDZBWnbMrWNl9lu8KtfwIhsh1RtT8VCguNHO7ceB5Jq1fpbw5JT0wtJVABatokA8Ol086UwT9c5BR2mq5HrR.jpg?r=f8f",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "60001803",
+      "title": "Alexandria: Again and Forever",
+      "synopsis": "At the peak of his career, Yehia joins a hunger strike, becomes smitten and reckons with a creative crisis — but finds a new muse.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "1989",
+      "runtime": "1h49m",
+      "largeimage": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABf0WbQTW_smSdXEqGX-XQMBiNv1EkjMc4X-8uwkwe3fwmK-4AKSAy5I6-ml0FsXAiePG2KHM8mgvX81DVrtCquqfRLJj.jpg?r=0a0",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "60002273",
+      "title": "Along Came a Spider",
+      "synopsis": "When a girl is kidnapped from a prestigious prep school, a homicide detective takes the case, teaming up with young security agent.<br><b></b>",
+      "rating": "6.4",
+      "type": "movie",
+      "released": "2001",
+      "runtime": "1h43m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZ51dexFQSmqtj9o7icMN9KQxOX_6X5iKom8Dve9pZuzhqEnx738Fu2u5X4_XLNpDIQsU7M-2weiz8HiL2RBIDekH42w.jpg?r=d2f",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "60020681",
+      "title": "Angel Eyes",
+      "synopsis": "When a violent assault leaves her vulnerable, a streetwise Chicago cop receives help from a haunted loner who's struggling with traumas of his own.<br><b></b>",
+      "rating": "5.6",
+      "type": "movie",
+      "released": "2001",
+      "runtime": "1h42m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABW_zO3-lMcf3WjJ4Hki8uUAgMbAlCYj3TjQSNe6N9fGQdQFxaWSo48B6V6Vy8Hx8bhag-fxejhhVK7YNrKG6wh41o9Et.jpg?r=d58",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "60027713",
+      "title": "2 Fast 2 Furious",
+      "synopsis": "It's a major double-cross when former cop Brian teams up with his ex-con buddy to transport a shipment of 'dirty' money for a shady importer-exporter.<br><b></b>",
+      "rating": "5.9",
+      "type": "movie",
+      "released": "2003",
+      "runtime": "1h47m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXWi8cWleYPwFmSJYzCdu4b8EalVrXaprZQvOgoA41Oau4m0IxZ8gEipVc0tNUxtdMaDT2zDMvNfJAeQU-MeXs3ky2l3.jpg?r=ae6",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "70056440",
+      "title": "300",
+      "synopsis": "In 480 B.C., Spartan King Leonidas leads his small band of 300 soldiers against an army of more than 1 million during the Battle of Thermopylae.<br><b></b>",
+      "rating": "7.5",
+      "type": "movie",
+      "released": "2007",
+      "runtime": "1h56m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQwyw3OcOEofXg58axFS5yT7qmUmTpw1HaGpzO_Q-qTqdt7GcksiptQ_YorLxQThDP9lL4SPo0hOCSvNYgCtbhHdu-rK.jpg?r=d41",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "70113002",
+      "title": "21",
+      "synopsis": "A brilliant group of students become card-counting experts with the intent of swindling millions out of Las Vegas casinos by playing blackjack.<br><b></b>",
+      "rating": "6.8",
+      "type": "movie",
+      "released": "2008",
+      "runtime": "2h2m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABRQXpSvT8urY69yyLsO04yi1frmMJOOjHr3CQfzYWlzqeOEruZmLCEv5j0gKONwaMtkMS8hxpWTv6TjWIGlyJ64ZSpDS.jpg?r=b4b",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "70115201",
+      "title": "Ace Ventura Pet Detective Jr.",
+      "synopsis": "In this third film of the series, a young Jim Carrey lookalike ruins his father's life when he teams up with the pet detective to rescue animals from poachers.<br><b></b>",
+      "rating": "2.4",
+      "type": "movie",
+      "released": "2009",
+      "runtime": "1h32m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXgn3unsJ1rGSNZWbpbiLDYBcrdSQP_kdkUGCeKw90LReF0iyIXZNT3uhE3pIFXQCSRnCVR_R-Z9lzJ-0ecKeFz9dbiT.jpg?r=d55",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "70131314",
+      "title": "17 Again",
+      "synopsis": "Nearing a midlife crisis, thirty-something Mike wishes for a 'do-over' -- and that's exactly what he gets when he wakes up to find he's 17 again.<br><b></b>",
+      "rating": "6.3",
+      "type": "movie",
+      "released": "2009",
+      "runtime": "1h42m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABfx1cr_u2HHBhfwNeu3UtDpd9vPFYxXiNWOb02IC28SuZVWCqdK8hqNsIjEvRUstFmsvzNQD3jBUhf-m-rWmIrdjnQ16.jpg?r=14b",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "70185045",
+      "title": "Argo",
+      "synopsis": "CIA operative Tony Mendez leads a risky mission to free six Americans who have found shelter at the Canadian embassy after narrowly escaping a hostage situation at the U.S. embassy.<br><b></b>",
+      "rating": "7.7",
+      "type": "movie",
+      "released": "2012",
+      "runtime": "2h0m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUKJCgyWk-qSrRO0PY0cYGQ57t4ZLiOfA3MbhUXCm3WooxIin6j15EqM_meVmJyvClbDgxByeoZE6PC2ECyDPh3k9c9y.jpg?r=857",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "70244605",
+      "title": "300: Rise of an Empire",
+      "synopsis": "The Greek city of Sparta comes under siege by the Persian Empire during the Battle of Thermopylae. Themistocles rallies the Greeks for a war at sea.<br><b></b>",
+      "rating": "5.7",
+      "type": "movie",
+      "released": "2014",
+      "runtime": "1h42m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABfHQJyNNNyVgRu9pdYUtw-PO9OCA1GOMCWGlNKKHmV8j-k-u1C5Q43SdaW5X1SKEFK5F-zWmQti8aIvp-UG8JkAnu9RR.jpg?r=ba6",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "70267111",
+      "title": "Anchorman 2: The Legend Continues",
+      "synopsis": "The '70s are over, and the anachronistic Channel 4 news team tries to stay classy as they reassemble to join New York's first 24-hour news channel.<br><b></b>",
+      "rating": "6.3",
+      "type": "movie",
+      "released": "2013",
+      "runtime": "1h59m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABSsWgWGOPUUSfi7dEMlJ2DteBcku3ehsFrOuQIb7cRi_mkVnV5vPsqYJU9x8hNY10x3J1iMWo_2tIRm34liOUXHOOAEY.jpg?r=4d4",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "70275722",
+      "title": "The Amazing Spider-Man 2",
+      "synopsis": "Spider-Man faces a new crop of villains, including the shape-shifting Sandman. Based on the Marvel Comics series.<br><b></b>",
+      "rating": "6.6",
+      "type": "movie",
+      "released": "2014",
+      "runtime": "2h21m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXUArivve9zWodcakb8jc0DrMdNaI-4budlQNvt2WusT2PhIzkiRA83uyu57WZb3v3UcIlXv07-Pg5hQTcZjhLSHTRBO.jpg?r=9dd",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "70291881",
+      "title": "American Sniper",
+      "synopsis": "U.S. Navy SEAL marksman Chris Kyle racks up an unprecedented number of kills in Iraq, even as his home life starts to slip away from him.<br><b></b>",
+      "rating": "7.3",
+      "type": "movie",
+      "released": "2014",
+      "runtime": "2h12m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXRMHNLCFSFX0vFG4yV8DhS06eQVxxKgxL7t0Ue_6V17WS7T_gFad4MdeRGijSXBPLxPq1aCCgiNHrqVfofr0AB7FPED.jpg?r=f28",
+      "genres": [
+        "Biography",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "80066500",
+      "title": "12 Rounds 3: Lockdown",
+      "synopsis": "Detective John Shaw finds himself hunted by his fellow officers after he uncovers evidence linking his ex-partner to the murder of a drug dealer.<br><b></b>",
+      "rating": "5.2",
+      "type": "movie",
+      "released": "2015",
+      "runtime": "1h30m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABY_weaPZlkXW3udYJCrUAsU9GBs_TyUJeuPjbHdkoMw7s3prMtusP7RZrJMtS8shiPOlrJS-J2JIKxSqpXEhAqLPNg0o.jpg?r=ebd",
+      "genres": ["Action", "Crime"]
+    },
+    {
+      "id": "80210497",
+      "title": "Action Point",
+      "synopsis": "A daredevil stuntman builds a second-rate amusement park in New Jersey and fights to keep it open when a greedy developer arrives on the scene.<br><b></b>",
+      "rating": "5.1",
+      "type": "movie",
+      "released": "2018",
+      "runtime": "1h24m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXf7X4WpwePZlBxuBgiQIiUWAXxVyoCBW1rTnp3vMFeOH6L0u_Tt6WI_oAsmq4cY8auqQ5Q_Q2PaFYmg1QmKvrCP-wDA.jpg?r=ea5",
+      "genres": ["Action", "Comedy"]
+    },
+    {
+      "id": "80214451",
+      "title": "Along with the Gods: The Two Worlds",
+      "synopsis": "A firefighter dies and arrives in the afterlife, where guardians shepherd him through seven trials and a perilous journey through different hells.<br><b></b>",
+      "rating": "7.3",
+      "type": "movie",
+      "released": "2017",
+      "runtime": "2h19m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZ6NhrpTOneJT0E9S8OMCgHQ4tQ4BUFN4lWlJY8ZFwmwz7z6vyEQcyqZzwbcTY2nCjc8cD1vC-qwVcSAEmijwru60q6n.jpg?r=fb2",
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "id": "81001804",
+      "title": "100 Days Of Solitude",
+      "synopsis": "Spanish photographer Jos&eacute; D&iacute;az spends 100 days living alone on a remote mountain, connecting to nature and documenting the beauty of his surroundings.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2018",
+      "runtime": "1h33m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABSrrayVeQjI68icvhRLlP8g6nz9Ig9GM7aEcpRqbVSIIZ-cWKA14PGkspRZQUgQKSEjI6KX4Oc-P2Bzob7cCBhaROtDK.jpg?r=036",
+      "genres": ["Documentary", "Drama"]
+    },
+    {
+      "id": "81017092",
+      "title": "Along with the Gods: The Last 49 Days",
+      "synopsis": "While defending an unlikely soul, the afterlife Guardians investigate an elderly man who&rsquo;s outstayed his time on Earth, and delve into their own past.<br><b></b>",
+      "rating": "7.1",
+      "type": "movie",
+      "released": "2018",
+      "runtime": "2h21m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABSJkr0VqLD4jTYrQn0_-nXFg_CaHDQcn8JAn5g36IwKjjHNXPDjLoo7RKN54CnplKX6bO41EB92TLzUA1K0KpEaVqafa.jpg?r=5c1",
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "id": "81043532",
+      "title": "61 Days",
+      "synopsis": "In an Aegean town in the 1970s, a young boy shadows a soft-drink peddler during summer break and decides to fast for Ramadan.<br><b></b>",
+      "rating": "7.5",
+      "type": "movie",
+      "released": "2016",
+      "runtime": "1h51m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbhWUb9LcYeW3MG2ikA29oGoa2QqAn8Jx65uAxkHvc7RGEBDpxgf07tfK2xj7TOMBcQo5tW9QmZJAT9KAKS3qNcl3NgW.jpg?r=163",
+      "genres": ["Drama"]
+    },
+    {
+      "id": "81049899",
+      "title": "4th Republic",
+      "synopsis": "After the election-night murder of her campaign manager at a polling site, a gubernatorial candidate challenges the corrupt incumbent&#';s victory.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2019",
+      "runtime": "1h59m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYV2uMZWdpp2d_8UQXfmkRRBy5Gls5oSNKngklZs-JZ8PLY9Oz0I49XbVEyZjMkKax6w6BVIxHFKy-BsPHlT-mRCVwPq.jpg?r=228",
+      "genres": ["Drama", "Thriller"]
+    },
+    {
+      "id": "81239780",
+      "title": "All Mixed Up",
+      "synopsis": "Determined to wed his girlfriend, an earnest boyfriend goes off the beaten path to seek the blessing of her father, who has been missing for years.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2018",
+      "runtime": "1h36m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABXuFbVImAb68YxpgeQF3UJRJ8B2AvMmZ9oZaDsFsiHF6sxQ6xY1LvevS2uETXLnM0GvKsLWqlx4Q1llMRhtQiP0YE2qY.jpg?r=fd0",
+      "genres": ["Comedy", "Drama"]
+    },
+    {
+      "id": "81245964",
+      "title": "365 Days",
+      "synopsis": "A fiery executive in a spiritless relationship falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.<br><b></b>",
+      "rating": "3.6",
+      "type": "movie",
+      "released": "2020",
+      "runtime": "1h53m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABWud1vX19ya2ahsnYFoaceoiCKEjfUKttrn5AU1RGjbA9sbZ-UXsjPvB2aEMDd_kessoTh42KuYNIeoVOzzVlLzYlSzRk69K7m0SyZQPxZNxf8ehxk-tA9U8V3MgWQovpjHvcGtR7_2SNCXwiemq_VOe_LLr.jpg?r=c99",
+      "genres": ["Drama", "Romance"]
+    },
+    {
+      "id": "81254502",
+      "title": "Andaleeb El Dokki",
+      "synopsis": "Aiming for fame, a struggling singer finds his long-lost millionaire twin and falls for his brother&#';s secretary as a plot brews to steal the fortune.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2007",
+      "runtime": "1h46m",
+      "largeimage": "https://occ-0-753-1360.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQr_lS03EKMFSSvUt6dZ_ShGAqprRZCw3cOOHvjBopH7r72B0d6_oryqXURy8X2s8UBbwpoy8oVu7R-P15C0ZhFvNh5N.jpg?r=cf6",
+      "genres": ["Drama", "Romance"]
+    },
+    {
+      "id": "81262152",
+      "title": "All Good 2: Back to Square One",
+      "synopsis": "Wanted as a serial killer, Salim switches his disguise and sets out to rescue Nihal&#';s mom from kidnappers, but trouble finds him in every corner.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2014",
+      "runtime": "1h41m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABSjz4bAOMWQ0a9B_1BAvPewr-qzNc8FfuTTqU9yN-_7sJdjS3POgq2A9uX7L3qqKYNQL3BIJbm13czOIipqk-UMhYwsR.jpg?r=691",
+      "genres": ["Action", "Comedy", "Crime"]
+    },
+    {
+      "id": "287290",
+      "title": "Batman",
+      "synopsis": "Batman begins making a name for himself just as the flamboyant Joker takes over the Mafia in director Tim Burton&#';s adaptation of the comic book.<br><b></b>",
+      "rating": "7.5",
+      "type": "movie",
+      "released": "1989",
+      "runtime": "2h6m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbQqTisGe8IHNw5Bg5W8ShGtNU4mSupLfEc6GNjFkvLwkWs9PsESjhvhp4r7XgkzGSauq0OSEO4Si3okfpSUbYgZsiyh.jpg?r=938",
+      "genres": ["Action", "Crime", "Drama"]
+    },
+    {
+      "id": "321652",
+      "title": "The Bodyguard",
+      "synopsis": "A former Secret Service agent grudgingly takes an assignment to protect a pop idol who has a determined stalker. At first, the protector and diva clash, but soon trust and attraction overpower the unlikely pair.<br><b></b>",
+      "rating": "6.3",
+      "type": "movie",
+      "released": "1992",
+      "runtime": "2h9m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABep95MJvec6qpD_uLlH_C7zFe07EzgN87Hb7C3vMrG8HCuVEtlJI7cSUaTbpT0uSqN15ROoMaGKpDtykFmC2WPk0j5EO.jpg?r=abc",
+      "genres": ["Action", "Crime", "Drama", "Romance"]
+    },
+    {
+      "id": "60020749",
+      "title": "Baby Boy",
+      "synopsis": "With two kids and no job, Jody struggles to deal with his increasing responsibilities -- and his mother and her new man want him out of the house.<br><b></b>",
+      "rating": "6.4",
+      "type": "movie",
+      "released": "2001",
+      "runtime": "2h9m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABb2PbvIFWzyO3hdoSF3cWZj38PcdKs81kngQIV2PKGS4hQkeVEQC_erYouQQeqUjE4gFI1I4Yzj5O58h9aIHloB9LIWn.jpg?r=29e",
+      "genres": ["Drama"]
+    },
+    {
+      "id": "60020891",
+      "title": "Blow",
+      "synopsis": "Cocaine smuggler George rises from poverty to become one of the biggest drug dealers in America before his eventual downfall.<br><b></b>",
+      "rating": "7.6",
+      "type": "movie",
+      "released": "2001",
+      "runtime": "2h3m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcmuaWW9S8GBPujg7M0HsKvdw7qQX27JACndhc3KFaUcwUug_1q2f2qLWORNF1ZJRGUgyRq9cNeBPPVMnHD9zDLJFyLa.jpg?r=908",
+       "genres": ["Crime", "Drama"]
+    },
+    {
+      "id": "60022056",
+      "title": "Black Hawk Down",
+      "synopsis": "When U.S. forces attempt to capture two underlings of a Somali warlord, their helicopters are shot down and the Americans suffer heavy casualties.<br><b></b>",
+      "rating": "7.7",
+      "type": "movie",
+      "released": "2001",
+      "runtime": "2h24m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbtFDV4mVtn_dB4lk93A0mOeKvIKobR1ux29t8W-TJDcQ8OLkCHFqWkuZFZ48j4_YOjkf89BPXQNlSD9qoLTRRCa93MY.jpg?r=971",
+       "genres": ["Action", "Drama", "War"]
+    },
+    {
+      "id": "60029167",
+      "title": "Bad Boys II",
+      "synopsis": "In this hyperkinetic sequel, a pair of Miami narcotics cops investigate a Cuban drug kingpin&#';s connection to Florida&#';s influx of Ecstasy.<br><b></b>",
+      "rating": "6.6",
+      "type": "movie",
+      "released": "2003",
+      "runtime": "2h26m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZv2x7Hg-6fRDCGfex0eY0MxnX1Ut8Mz-LLSM2eV_g6v39JJxSZ1CuDgoCaHJiHBQ6yaI7Nh81-BwSQok5joFcocdFGa.jpg?r=abf",
+       "genres": ["Action", "Comedy"]
+    },
+    {
+      "id": "60031268",
+      "title": "Big Fish",
+      "synopsis": "A reporter attempts to learn more about his dying father by finding the truth behind a lifetime of his tall tales and legends of epic proportions.<br><b></b>",
+      "rating": "8",
+      "type": "movie",
+      "released": "2003",
+      "runtime": "2h5m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABap-pvpDmDWsnwPIX3YRPwjNqhEDZW44QlQ8jEisLhvbp3GzVVSBl2TR_fCb_4i8UaBDw0JdgQ_gSLXaH1t-llpK307f.jpg?r=e99",
+       "genres": ["Drama", "Fantasy"]
+    },
+    {
+      "id": "60034582",
+      "title": "Around the World in 80 Days",
+      "synopsis": "After betting the Minister of Science that he can circle the world in 80 days, eccentric inventor Phileas Fogg sets out on an epic adventure.<br><b></b>",
+      "rating": "5.9",
+      "type": "movie",
+      "released": "2004",
+      "runtime": "1h54m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZ9q8KOSrNSIGUKU4yGO20rWfFdSOUVk9CXBt6DTmmHansD2PygxgtWYSs0sYr0W18wfnVvdfHGPJ_VsIYtUOBIjtTTb.jpg?r=1da",
+       "genres": ["Adventure", "Comedy"]
+    },
+    {
+      "id": "81262153",
+      "title": "All Good",
+      "synopsis": "While delivering a deceased man&#';s body for burial, a naive village courier encounters a host of eccentrics and implicates himself in dark crimes.<br><b></b>",
+      "rating": "5.8",
+      "type": "movie",
+      "released": "2012",
+      "runtime": "1h38m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABZMxUIZu6eg114xlYPEzzX6hW9ThLX-AHJvSUncb-JurO0n_fh255Drx-e5lqZf2OrB_aReiBz-tDo2gNFnZ0Q2YVPeo.jpg?r=1e7",
+       "genres": ["Drama"]
+    },
+    {
+      "id": "81273713",
+      "title": "Addicted to Life",
+      "synopsis": "Chasing extreme challenges, athletic daredevils test their limits in various environments from giant waves to snowy slopes around the world.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2014",
+      "runtime": "1h30m",
+      "largeimage": "https://occ-0-1007-1360.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABc4HmUzgF03BeRApac6QGVxx0m5WbcEVA379wEfNQ1DJ2rlByvjmRYgvnUZBDwQ3bDq27CfutzDoF6yMTET4MkeaVxB5.jpg?r=52d",
+       "genres": ["Action", "Documentary"]
+    },
+    {
+      "id": "60036252",
+      "title": "Blade: Trinity",
+      "synopsis": "Recognizing that they&#';re powerless to stop vampire hunter Blade, the vampires who rule the human race set up Blade to look like a serial killer.<br><b></b>",
+      "rating": "5.9",
+      "type": "movie",
+      "released": "2004",
+      "runtime": "1h52m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQ2lqKPBHbbhpTAfbPUqi-tMQ_183aJwPApnJIbONovVvjtRJO3O8hxf9AbsP0rcmRf6mu0pTxIfycWMMbdaRW9lWUW1.jpg?r=ca6",
+       "genres": ["Action", "Horror", "Sci-Fi"]
+    },
+    {
+      "id": "70021642",
+      "title": "Batman Begins",
+      "synopsis": "Following the murder of his parents, Bruce Wayne trains with a shadowy organization and returns to Gotham City to fight crime under a new guise.<br><b></b>",
+      "rating": "8.2",
+      "type": "movie",
+      "released": "2005",
+      "runtime": "2h20m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABS4XcaUZaCGxS1GohPuAppkCj4zH6ktoJYX0YZOWC_STG5skJDjt7Lz2TFxny49LBnGX02EVK-y3G0ZEK2_6Ldl-YUwc.jpg?r=4e8",
+       "genres": ["Action", "Crime", "Drama"]
+    },
+    {
+      "id": "70045850",
+      "title": "Blood Diamond",
+      "synopsis": "In war-ravaged Sierra Leone, a diamond smuggler offers to reunite a local fisherman with his family in exchange for a gigantic gem he discovered.<br><b></b>",
+      "rating": "8",
+      "type": "movie",
+      "released": "2006",
+      "runtime": "2h23m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQytSRtHQsa5MlLEzDyObzjaxgaX1IN1Ozmax8AwTnkA-7eVzK5wIGPsqOghKDqCgyoNnxtaoJqP0ckBvInk7Lczisha.jpg?r=d77",
+       "genres": ["Action", "Drama", "Thriller"]
+    },
+    {
+      "id": "70060010",
+      "title": "Bee Movie",
+      "synopsis": "Barry, a worker bee stuck in a dead-end job making honey, sues humans when he learns they&#';ve been stealing bees&#'; nectar all along.<br><b></b>",
+      "rating": "6.1",
+      "type": "movie",
+      "released": "2007",
+      "runtime": "1h31m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUjfrzhVd4iK8PX42RcP2I5-wYxp-_VsVsHAAch17niRb6pXXiCqqF-JODJdDFryCz1fEwphDUINt_-OtmebDQKj3bA_.jpg?r=199",
+       "genres": ["Animation", "Comedy", "Family"]
+    },
+    {
+      "id": "70101694",
+      "title": "Body of Lies",
+      "synopsis": "An idealistic CIA agent teams with a veteran operative and the head of Jordanian intelligence to infiltrate an underground terrorist network.<br><b></b>",
+      "rating": "7.1",
+      "type": "movie",
+      "released": "2008",
+      "runtime": "2h8m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbrJZALexIgN0PNPZLegViGHLhcS70U5f7tVsPNOnP6No_SzY_Qx4WB9JHDuWDy2QPZcZYzB93x2Sq50SXhGAJEMCQSN.jpg?r=146",
+       "genres": ["Action", "Crime", "Drama", "Romance", "Thriller"]
+    },
+    {
+      "id": "70119811",
+      "title": "The Blind Side",
+      "synopsis": "In this sports drama based on a true story, an affluent couple takes in a homeless teenager and nurtures his growth into a football powerhouse.<br><b></b>",
+      "rating": "7.6",
+      "type": "movie",
+      "released": "2009",
+      "runtime": "2h8m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABc-pzrfyLm5hpWzXVh1sSDTCKkHHVs00_aHZMNhIJ_pWB14oo74W54t_NHBLrejhMjtyjs6QNud5cNOwb-Av0GO-RjXn.jpg?r=f95",
+       "genres": ["Drama"]
+    },
+    {
+      "id": "80078761",
+      "title": "Being AP",
+      "synopsis": "With retirement staring him in the face, an all-time-great jump jockey pursues his 20th consecutive title in his unrelenting quest for glory.<br><b></b>",
+      "rating": "6.4",
+      "type": "movie",
+      "released": "2015",
+      "runtime": "1h38m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUnE4IsO_l7Cm9MXkev2w1TjqYpBfAJGx6ii4-Cr_SYa8DFL2X-CpPj6RVGI-ECVLViXrvxQo1HnXEj_zSMYGitMOYhA.jpg?r=7ee",
+       "genres": ["Action", "Crime", "Drama"]
+    },
+    {
+      "id": "80111413",
+      "title": "Blair Witch",
+      "synopsis": "After finding footage of his long-missing sister, James Donahue heads into the woods to find her, accompanied by friends and a documentary filmmaker.<br><b></b>",
+      "rating": "5",
+      "type": "movie",
+      "released": "2016",
+      "runtime": "1h29m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcJjMVMyyKQ6vbuSx_Xl7u7uD7yfgoqrjUy1yPavd-_YsloIelKObEN7607QOFoLbxjCq86q7Ay8JkZNYFsfUbmg9Tvj.jpg?r=62c",
+       "genres": ["Horror", "Thriller"]
+    },
+    {
+      "id": "80117445",
+      "title": "Assassin&#';s Creed",
+      "synopsis": "In this adaptation of the critically acclaimed video game franchise, a man on death row is rescued from execution by a mysterious organization.<br><b></b>",
+      "rating": "5.7",
+      "type": "movie",
+      "released": "2016",
+      "runtime": "1h55m",
+      "largeimage": "https://occ-0-784-778.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQVniYIURyKXpDiRHECloO1gUajGDQZgNeTofLQZloAoXP2Lu3If49wBF8LSbdQNb043rNbXsSI69vy-0iJt-WrKAofZ.jpg?r=d7b",
+       "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "id": "80142090",
+      "title": "Baby Driver",
+      "synopsis": "Smooth-faced getaway driver Baby is a music junkie in deep with a bad dude. He&#';s got just one job left, but it&#';s all about to go sideways.<br><b></b>",
+      "rating": "7.6",
+      "type": "movie",
+      "released": "2017",
+      "runtime": "1h53m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVbvbv9Q7IAn3YYP_LFhY6RNzE28y7QfKyVJkDmvf9bP0ZNG0ZGH4pBAWBufwdF-XGZM9Jrha8DYbqmIdqWG2LYAjU03.jpg?r=c6b",
+       "genres": ["Action", "Crime", "Music", "Romance", "Thriller"]
+    },
+    {
+      "id": "80188902",
+      "title": "The Bad Education Movie",
+      "synopsis": "Britain&#';s most ineffective but caring teacher takes his class to Cornwall for one last school trip, where anything could happen -- and probably will.<br><b></b>",
+      "rating": "5.8",
+      "type": "movie",
+      "released": "2015",
+      "runtime": "1h27m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABcWeOp3-YK1vZCdyJsBVlb9OgLk6JTJ4TO0WBOEicgFYiGl1yusPo7RKEws8DRquoZKjbheVyxz6w41lWcXbrVSWUs--.jpg?r=1f9",
+       "genres": ["Drama", "Comedy"]
+    },
+    {
+      "id": "80191740",
+      "title": "Blade of the Immortal",
+      "synopsis": "Cursed with immortality, skilled swordsman Manji agrees to become a young girl&#';s bodyguard, swearing to avenge the slaying of her family.<br><b></b>",
+      "rating": "6.8",
+      "type": "movie",
+      "released": "2017",
+      "runtime": "2h21m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABbUKb00mRzFwa_1gsO-S2qVoJCE0eXDPZqt3ezSjkNoIPVvx33mhAibADbTxMwhKNrWUKavMdIbykWjXEtHM5AMTIFpRaZHXaDw3M_Yzplhp0jTtWfuOZU1vhaAOMA.jpg?r=f3a",
+       "genres": ["Action", "Adventure", "Drama", "Fantasy"]
+    },
+    {
+      "id": "80993681",
+      "title": "Aterrados",
+      "synopsis": "When creepy things start happening in a Buenos Aires neighborhood, paranormal investigators and an ex-cop open a terrifying investigation.<br><b></b>",
+      "rating": "6.5",
+      "type": "movie",
+      "released": "2017",
+      "runtime": "1h27m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABeaV6B35ZxuEZR4TeQiSnAfIWlmTK9wFiIzjul6HNZYt5fcEOVXiOAolVkJakljte64arJPANiwUhTHAobjr9uIFDKAr.jpg?r=a75",
+       "genres": ["Horror", "Mystery", "Thriller"]
+    },
+    {
+      "id": "80996851",
+      "title": "BlacKkKlansman",
+      "synopsis": "The first black detective of the Colorado Springs Police Department teams up with a Jewish colleague to infiltrate a group of white supremacists.<br><b></b>",
+      "rating": "7.5",
+      "type": "movie",
+      "released": "2018",
+      "runtime": "2h15m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABQgAe0Xr8CGLhp32GTjhW25Bif6ivYBUJfLxLZmqyVkFSWf92ahs-i8Kv0RKcVrjFSuASHrE__wMMYKb_HasZmgv4sLO.jpg?r=840",
+       "genres": ["Crime", "Drama", "Romance",  "Mystery", "Thriller"]
+    },
+    {
+      "id": "81144457",
+      "title": "Axone",
+      "synopsis": "In Delhi, friends from Northeast India prepare a pungent delicacy for a wedding party, sparking conflict and comedy with their unaccustomed neighbors.<br><b></b>",
+      "rating": "",
+      "type": "movie",
+      "released": "2019",
+      "runtime": "1h40m",
+      "largeimage": "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABb0Aczt3poVXGyEeyntWfmrwhsL6UFZQPfXLheP2CFldpLouxlijAqLUrss0z3Q8vBwApb8YYToqezkN5NCGGfHRDQvY.jpg?r=e64",
+       "genres": ["Drama", "Comedy"]
+    }
+  ]

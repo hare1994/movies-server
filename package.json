@@ -1,0 +1,23 @@
+{
+  "name": "harel-movies-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "keywords": [
+  ],
+  "author": "Harel Yaacov",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.3",
+    "mongodb": "^5.7.0",
+    "mongoose": "^4.1.12",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0"
+  }
+}
